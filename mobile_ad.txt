@@ -1,15 +1,3 @@
-||272xb.com^
-||hwmwin.com^
-||pagead2.googlesyndication.com^
-||hh.m.81zw.com^
-www.ithome.com###tt50
-tieba.baidu.com##.thread-recommend.thread_recommend
-||w.c-cnzz.com$image
-www.xs.la##.downcode
-www.qu.la##.downcode
-www.biquge.lu##.downcode
-www.qiushuzw.com##.bdselect_share_box
-www.ithome.com###tt
 ||paeqmjq.cn^
 s.xiakabbb.com###d_sbijpp
 s.xiakabbb.com###footer
