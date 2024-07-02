@@ -13,3 +13,4 @@ www.ithome.com###tt
 ||paeqmjq.cn^
 s.xiakabbb.com###d_sbijpp
 s.xiakabbb.com###footer
+s.xiakabbb.com##section.zj > div:last-child
