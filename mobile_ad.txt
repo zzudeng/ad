@@ -14,3 +14,5 @@ www.ithome.com###tt
 s.xiakabbb.com###d_sbijpp
 s.xiakabbb.com###footer
 s.xiakabbb.com##section.zj > div:last-child
+ !选择class为zj的section中的最后一个div
+||ftt0p.com^
