@@ -16,3 +16,7 @@ s.xiakabbb.com###footer
 s.xiakabbb.com##section.zj > div:last-child
  !选择class为zj的section中的最后一个div
 ||ftt0p.com^
+||uiakqq.top^
+||aiosko.top^
+!选择body中的第四个div
+wap.biqugao.cc##body > div:nth-of-type(4)
