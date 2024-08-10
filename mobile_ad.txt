@@ -21,3 +21,13 @@ s.xiakabbb.com##section.zj > div:last-child
 ||aiosko.top^
 !选择body中的第四个div
 wap.biqugao.cc##body > div:nth-of-type(4)
+m.ujxsw.net##body > div:nth-of-type(1)
+m.ujxsw.net##body > div:nth-of-type(3) > div:nth-of-type(5)> div
+b.0794.org###d_azdwie
+b.0794.org##body > div:nth-of-type(1)
+b.0794.org##section.zj > div:nth-of-type(5)
+m.ahfgb.com##div.nr_page > div:nth-of-type(3)
+m.ahfgb.com##div.nr_page > div:nth-of-type(4)
+m.ymxxsw.com##body > div:nth-of-type(6)
+m.xfanjia1.com##body > div:nth-of-type(2)
+m.xfanjia1.com##body > div:nth-of-type(3)
