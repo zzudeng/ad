@@ -26,5 +26,4 @@ wap.biqugao.cc##body > div:nth-of-type(4)
 ||m.ahfgb.com/js/ueyrsaq.js
 ||tdnsstic1.cn^
 ||hwbdgap.com^
-m.xfanjia1.com##body > div:nth-of-type(2)
-m.xfanjia1.com##body > div:nth-of-type(3)
+||m.xfanjia1.com/js/lm_wap.js
