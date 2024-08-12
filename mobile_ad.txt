@@ -15,11 +15,10 @@ www.ithome.com###tt
 ||uiakqq.top^
 ||uiakqp.top^
 ||aiosko.top^
-!选择body中的第四个div
-wap.biqugao.cc##body > div:nth-of-type(4)
 ||trafficmanager.net^
 ||b.0794.org/css/js/tools.js
 ||m.ahfgb.com/js/ueyrsaq.js
 ||hwbdgap.com^
 ||m.xfanjia1.com/js/lm_wap.js
 ||s.xiakabbb.com/css/js/tools.js
+||wap.biqugao.cc/js/detail.js?v=1
