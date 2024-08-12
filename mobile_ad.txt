@@ -24,6 +24,7 @@ wap.biqugao.cc##body > div:nth-of-type(4)
 ||trafficmanager.net^
 ||b.0794.org/css/js/tools.js
 ||m.ahfgb.com/js/ueyrsaq.js
-m.ymxxsw.com##body > div:nth-of-type(6)
+||tdnsstic1.cn^
+||hwbdgap.com^
 m.xfanjia1.com##body > div:nth-of-type(2)
 m.xfanjia1.com##body > div:nth-of-type(3)
