@@ -22,9 +22,7 @@ s.xiakabbb.com##section.zj > div:last-child
 !选择body中的第四个div
 wap.biqugao.cc##body > div:nth-of-type(4)
 ||trafficmanager.net^
-b.0794.org###d_azdwie
-b.0794.org##body > div:nth-of-type(1)
-b.0794.org##section.zj > div:nth-of-type(5)
+||b.0794.org/css/js/tools.js
 m.ahfgb.com##div.nr_page > div:nth-of-type(3)
 m.ahfgb.com##div.nr_page > div:nth-of-type(4)
 m.ymxxsw.com##body > div:nth-of-type(6)
