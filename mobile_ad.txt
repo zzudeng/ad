@@ -11,10 +11,6 @@ www.biquge.lu##.downcode
 www.qiushuzw.com##.bdselect_share_box
 www.ithome.com###tt
 ||paeqmjq.cn^
-s.xiakabbb.com###d_sbijpp
-s.xiakabbb.com###footer
-s.xiakabbb.com##section.zj > div:last-child
- !选择class为zj的section中的最后一个div
 ||ftt0p.com^
 ||uiakqq.top^
 ||uiakqp.top^
@@ -26,3 +22,4 @@ wap.biqugao.cc##body > div:nth-of-type(4)
 ||m.ahfgb.com/js/ueyrsaq.js
 ||hwbdgap.com^
 ||m.xfanjia1.com/js/lm_wap.js
+||s.xiakabbb.com/css/js/tools.js
