@@ -12,5 +12,5 @@
 ||wap.biqugao.cc/js/detail.js?v=1
 ||dyuthic.com^
 ||xinchl.xyz^
-m.zkksw.com##.content > div:nth-of-type(6)
+||xybo11.cn^
 m.zkksw.com##body > div:nth-of-type(4)
