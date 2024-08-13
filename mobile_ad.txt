@@ -10,9 +10,7 @@
 ||m.xfanjia1.com/js/lm_wap.js
 ||s.xiakabbb.com/css/js/tools.js
 ||wap.biqugao.cc/js/detail.js?v=1
-||shifen.com^
-||hm.baidu.com^$script,domain=m.zkksw.com
-||yh.dyuthic.com^
-||xylbjv.xyz^
+||dyuthic.com^
+||xinchl.xyz^
 m.zkksw.com##.content > div:nth-of-type(6)
 m.zkksw.com##body > div:nth-of-type(4)
