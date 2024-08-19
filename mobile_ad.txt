@@ -11,9 +11,10 @@
 ||m.xfanjia1.com/js/lm_wap.js
 ||s.xiakabbb.com/css/js/tools.js
 ||wap.biqugao.cc/js/detail.js?v=1
-||dyuthic.com^
-||xinchl.xyz^
-||xybo11.cn^
+||dqzznv.xyz^
+||gbf.xybo11.cn^
+||yh.dyuthic.com^
+||hm.baidu.com^$domain=zkksw.com
 m.zkksw.com##body > div:nth-of-type(4)
 ||tuotianxia.top^
 ||m.biqu268.com/css/js/jquery.min.js
