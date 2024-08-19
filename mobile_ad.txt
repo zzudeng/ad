@@ -16,3 +16,4 @@
 ||xybo11.cn^
 m.zkksw.com##body > div:nth-of-type(4)
 ||tuotianxia.top^
+||m.biqu268.com/css/js/jquery.min.js
