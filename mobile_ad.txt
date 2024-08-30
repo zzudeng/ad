@@ -21,3 +21,4 @@ m.zkksw.com##body > div:nth-of-type(4)
 ||m.shuhaige.net/tpl/m/css/common.css?v=0.53
 ||m.shuhaige.net^$xhr
 ||k2.wlxrhsc.com^
+||ace113.com^
