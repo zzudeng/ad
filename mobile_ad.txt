@@ -22,3 +22,4 @@ m.zkksw.com##body > div:nth-of-type(4)
 ||m.shuhaige.net^$xhr
 ||k2.wlxrhsc.com^
 ||ace113.com^
+||ominat.com^
